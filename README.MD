@@ -1,13 +1,15 @@
 # nextPage Starter Repository
 
-A simple React app built with React & React Router Dom.
+A simple React app built with React & React Router Dom. 
 
-## Live Link
-Hosted in Netlify -> [nextPage](https://next-page.netlify.app/)
+## Complete Project Live Link
+Hosted in Netlify -> [nextPage](https://next-pages.netlify.app/)
 
+## Without Complete Project File 
+Without Completing Project Folder Is "nextPage-starter"
 
 ## Starter Template
-Github Repo -> [nextPage-starter](https://github.com/shakilahmedatik/nextPage-starter)
+Github Repo -> [nextPage-starter](https://github.com/Sanjidul-Alom-Shifat/Next-Page)
 
 ## API 
 
